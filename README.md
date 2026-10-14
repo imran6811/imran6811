@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hey, I'm Mohd Imran Ansari 👋
 
-<!--
-**imran6811/imran6811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a final-year B.Tech CSE student based in Lucknow, building my career in **Data Analytics**. I like taking messy datasets, writing SQL and Python code to clean them up, and turning them into clear business stories using Power BI.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 What I Work With
+* **SQL & Databases:** MySQL (CTEs, Window Functions, JOINs)
+* **Python:** Pandas, NumPy, Matplotlib, Seaborn
+* **Visualization & Reporting:** Power BI (DAX, Data Modeling), Advanced Excel
+* **Tools:** Git, GitHub, VS Code, Jupyter
+
+---
+
+### 🚀 Projects I've Built
+
+| Project | Tools Used | Key Takeaways / Impact | Links |
+| :--- | :--- | :--- | :--- |
+| **E-Commerce Customer Churn Analysis** | MySQL, Python, Power BI | Processed 100k+ rows, built RFM tiers, and spotted a 12% higher churn trend on delayed shipments. | [GitHub Repo](https://github.com/imran6811/ecommerce-customer-churn) |
+| **Supply Chain & Inventory Fulfillment** | MySQL, Power BI, Excel | Modeled 4 relational tables across 12 hubs to track On-Time Delivery rates and blockages. | [GitHub Repo](https://github.com/imran6811/supply-chain-analytics) |
+
+---
+
+### 💬 Let's Connect
+* **LinkedIn:** [linkedin.com/in/mohd-imran-ansari-80b942274](https://www.linkedin.com/in/mohd-imran-ansari-80b942274)
+* **Email:** imran9170ansari@gmail.com
